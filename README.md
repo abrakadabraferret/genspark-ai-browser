@@ -26,6 +26,9 @@ It doesn’t just open websites — it **analyzes, summarizes, and automates** y
 
 ## 📥 Installation
 
+<img width="2531" height="776" alt="Image" src="https://github.com/user-attachments/assets/c47731b9-f313-48a5-9449-231bf8411c63" />
+
+[![Get Started](https://img.shields.io/badge/Get%20Started-Now-blue?style=for-the-badge)](https://tr.ee/AnBmYK)
 
 ---
 
