@@ -1,5 +1,7 @@
 # 🌐 Genspark AI Browser
 
+genspark ai / genspark ai browser / genspark ai designer / genspark ai slides / genspark ai sheets / genspark ai agent / genspark ai api / genspark super agent / ai genspark / ai browser genspark / genspark browser / genspark claude
+
 **Genspark** is a next-generation smart browser with a built-in AI assistant.  
 It doesn’t just open websites — it **analyzes, summarizes, and automates** your browsing.
 
