@@ -53,6 +53,8 @@ It doesn’t just open websites — it **analyzes, summarizes, and automates** y
 
 ---
 
+<img width="1200" height="587" alt="Image" src="https://github.com/user-attachments/assets/bf6e362e-cd50-4499-a298-f2a7bbc22522" />
+
 ---
 
 ### ⭐ Support the Project  
