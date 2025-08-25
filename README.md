@@ -1,1 +1,54 @@
-# genspark-ai-browser
+# 🌐 Genspark AI Browser
+
+**Genspark** is a next-generation smart browser with a built-in AI assistant.  
+It doesn’t just open websites — it **analyzes, summarizes, and automates** your browsing.
+
+---
+
+## ✨ Key Features
+
+- 🤖 **AI Super Agent**  
+  Works on any page: finds facts, compares prices, creates quick summaries.
+
+- 🎬 **YouTube Tools**  
+  Auto transcription, summaries, and slide generation from videos.
+
+- 🚀 **Autopilot Mode**  
+  Fully delegate tasks — from finding the best deals to gathering information.
+
+- 🔗 **Integrations (700+)**  
+  Connect Notion, GitHub, Slack, Trello, and more directly inside the browser.
+
+- 🛡 **Ad-Block & Speed Boost**  
+  Enjoy a clean, fast, and distraction-free web experience.
+
+---
+
+## 📥 Installation
+
+
+---
+
+## 👤 Who Is It For?
+
+- Students & researchers 📚  
+- Content creators ✍️  
+- Freelancers & creatives 🎨  
+- Heavy users of Notion / GitHub / Slack ⚡
+
+---
+
+## 💡 Why Genspark?
+
+✔ Saves time on repetitive tasks  
+✔ Makes browsing more productive  
+✔ All-in-one integration hub  
+✔ Feels like a *co-creator*, not just a tool  
+
+
+---
+
+---
+
+### ⭐ Support the Project  
+If you like Genspark — give us a ⭐ and share with your friends!
