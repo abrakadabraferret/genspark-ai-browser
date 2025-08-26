@@ -53,7 +53,21 @@ It doesn’t just open websites — it **analyzes, summarizes, and automates** y
 
 ---
 
+**AI Slides, AI Sheets, AI Docs, AI Pods, AI Chat, AI Image and Video, AI Call For Me, and more—one prompt does it all.**
+
 <img width="1200" height="587" alt="Image" src="https://github.com/user-attachments/assets/bf6e362e-cd50-4499-a298-f2a7bbc22522" />
+
+---
+
+## 📞 Contact Us
+
+- Address: 45 Broadgate Tower, London EC2A 2EW, UK
+
+- Phone: +44 20 3129 7742
+
+- Email: hello@genspark.k
+
+- Hours: Mon–Fri 09:00–19:00, Sat 10:00–16:00
 
 ---
 
